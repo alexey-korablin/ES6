@@ -52,3 +52,4 @@ function sum3() {
 }
 
 console.log(sum1(1, 6, 0, 5));
+//

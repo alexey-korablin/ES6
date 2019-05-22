@@ -31,7 +31,7 @@ let person = {
 
 console.log(person.sayHello());
 console.log(person.fullName);
-person.fullName = 'Peter'
+person.fullName = 'Peter';
 console.log(person);
 console.log(person.sayHello());
 

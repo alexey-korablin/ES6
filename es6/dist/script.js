@@ -5,9 +5,9 @@ var buttons = document.querySelectorAll('button');
 var _loop = function _loop(i) {
     button = buttons[i];
 
-    button.textContent = i;
-    button.onclick = function (e) {
-        console.log(i);
+    button.textContent = i + 1;
+    button.onclick = function (z) {
+        console.log(i + 1);
     };
 };
 

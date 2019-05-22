@@ -38,3 +38,4 @@ function sum3(...values) {
 }
 
 console.log(sum1(1, 6, 0, 5));
+//
